@@ -1,3 +1,8 @@
+Finishing Thoughts:
+
+I was able to finish this assignment in about 2 hours. Although this seems really simple, I think it really helped solidify the concepts I've learned so far (props, state, changing state, state design). It seems so daunting at first and I felt like I'd need to go to the solutions already. Instead, I took a half hour break halfway through and when I came back, the answer seemed much more clear than before. This little exercise wasn't much but it helped me a lot!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
